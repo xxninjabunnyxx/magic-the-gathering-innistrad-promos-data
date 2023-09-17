@@ -1,0 +1,109 @@
+---
+object: card
+id: b9cf8ad2-de95-417c-8808-83e60df9c007
+oracle_id: 6048fc70-0dcc-4b54-977d-16e240225f82
+multiverse_ids: []
+tcgplayer_id: 57644
+cardmarket_id: 251816
+name: Diregraf Ghoul
+lang: en
+released_at: '2011-09-24'
+uri: https://api.scryfall.com/cards/b9cf8ad2-de95-417c-8808-83e60df9c007
+scryfall_uri: https://scryfall.com/card/pisd/97/diregraf-ghoul?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.jpg?1561757921
+  normal: https://cards.scryfall.io/normal/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.jpg?1561757921
+  large: https://cards.scryfall.io/large/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.jpg?1561757921
+  png: https://cards.scryfall.io/png/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.png?1561757921
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.jpg?1561757921
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b9cf8ad2-de95-417c-8808-83e60df9c007.jpg?1561757921
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Creature — Zombie
+oracle_text: Diregraf Ghoul enters the battlefield tapped.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+set: pisd
+set_name: Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apisd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pisd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b9cf8ad2-de95-417c-8808-83e60df9c007/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6048fc70-0dcc-4b54-977d-16e240225f82&unique=prints
+collector_number: '97'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Austin Hsu
+artist_ids:
+- c5e439d8-b3db-4c13-ae93-4e129e3b9478
+illustration_id: caec34b3-d06f-4988-ac1c-ab51139d92a0
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 13946
+penny_rank: 704
+prices:
+  usd: '0.96'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Diregraf+Ghoul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Diregraf+Ghoul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Diregraf+Ghoul
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57644?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Diregraf+Ghoul&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diregraf+Ghoul&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

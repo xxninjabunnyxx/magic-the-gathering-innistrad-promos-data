@@ -1,0 +1,112 @@
+---
+object: card
+id: e6dd2f9e-16c2-4d25-98c4-0017ccd42228
+oracle_id: ee9f0b29-8a54-4cb8-8e2c-7bd67c2184ba
+multiverse_ids: []
+tcgplayer_id: 57076
+cardmarket_id: 251072
+name: Devil's Play
+lang: en
+released_at: '2011-09-24'
+uri: https://api.scryfall.com/cards/e6dd2f9e-16c2-4d25-98c4-0017ccd42228
+scryfall_uri: https://scryfall.com/card/pisd/140/devils-play?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.jpg?1561758340
+  normal: https://cards.scryfall.io/normal/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.jpg?1561758340
+  large: https://cards.scryfall.io/large/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.jpg?1561758340
+  png: https://cards.scryfall.io/png/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.png?1561758340
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.jpg?1561758340
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6dd2f9e-16c2-4d25-98c4-0017ccd42228.jpg?1561758340
+mana_cost: "{X}{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: |-
+  Devil's Play deals X damage to any target.
+  Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flashback
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+set: pisd
+set_name: Innistrad Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apisd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pisd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6dd2f9e-16c2-4d25-98c4-0017ccd42228/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee9f0b29-8a54-4cb8-8e2c-7bd67c2184ba&unique=prints
+collector_number: '140'
+digital: false
+rarity: rare
+watermark: colorpie
+flavor_text: A devil's hands are never idle.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: 8ea40371-ce2b-43e5-a735-79a0250ec17b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 6432
+penny_rank: 3195
+prices:
+  usd: 
+  usd_foil: '1.21'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.74'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Devil%27s+Play&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Devil%27s+Play&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Devil%27s+Play
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57076?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Devil%27s+Play&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Devil%27s+Play&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

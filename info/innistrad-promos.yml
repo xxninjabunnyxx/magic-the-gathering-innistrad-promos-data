@@ -1,0 +1,18 @@
+---
+object: set
+id: 94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+code: pisd
+name: Innistrad Promos
+uri: https://api.scryfall.com/sets/94d2e8a2-5ae8-4b7e-a7db-6770d5cfa6fd
+scryfall_uri: https://scryfall.com/sets/pisd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apisd&unique=prints
+released_at: '2011-09-24'
+set_type: promo
+card_count: 5
+parent_set_code: isd
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: isd
+block: Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/isd.svg?1694404800
